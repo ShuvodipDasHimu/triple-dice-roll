@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.912);
+  color: limegreen;
+}
+
+#myButton {
+  font-family: Consolas;
+  text-transform: uppercase;
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: deepskyblue;
+  color: lime;
+  transition: all 0.5s ease-in-out;
+}
+
+#myButton:hover {
+  background-color: rgb(30, 151, 238);
+  color: limegreen;
+}
+
+.myLabels {
+  font-size: 3em;
+}
